@@ -1,0 +1,25 @@
+# =========================
+# FRONTEND (React/Vite)
+# =========================
+frontend/node_modules
+frontend/dist
+frontend/.vite
+
+# =========================
+# BACKEND (Python/FastAPI)
+# =========================
+backend/venv
+backend/__pycache__
+backend/*.pyc
+
+# =========================
+# ENV FILES (IMPORTANT)
+# =========================
+.env
+backend/.env
+frontend/.env
+
+# =========================
+# OS FILES
+# =========================
+.DS_Store
