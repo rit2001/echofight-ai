@@ -284,7 +284,7 @@ Dual Degree (M.Tech), Mechanical Engineering + CSE Minor
 Indian Institute of Technology Kharagpur (2021–2026)
 
 - GitHub: [@rit2001](https://github.com/rit2001)
-- LinkedIn: [linkedin.com/in/ritwikbiswas](https://linkedin.com/in/ritwikbiswas)
+- LinkedIn: [linkedin.com/in/ritwikbiswas](https://www.linkedin.com/in/ritwik-biswas-958318234/)
 
 ---
 
