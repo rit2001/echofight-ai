@@ -12,7 +12,7 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-412991?style=flat-square&logo=openai)](https://openai.com)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite)](https://vitejs.dev)
 
-[**Live Demo**](https://echofight.vercel.app) · [**Frontend Repo**](https://github.com/rit2001/echofight-frontend) · [**Backend Repo**](https://github.com/rit2001/echofight-backend)
+[**Live Demo**](https://echofight-ai.vercel.app/) · [**Repo**](https://github.com/rit2001/echofight-ai/tree/main) ·  [**Frontend Repo**](https://github.com/rit2001/echofight-ai/tree/main/frontend) · [**Backend Repo**](https://github.com/rit2001/echofight-ai/tree/main/backend)
 
 ---
 
